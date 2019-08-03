@@ -1,0 +1,31 @@
+body{
+	background-color: black;
+	color: white;
+	margin: 1;
+}
+
+header{
+	background-color: #400000;
+	border-style: double;
+	text-align: center;
+}
+
+header img{
+	border-radius: 250px;
+	width: 800px;
+	margin-top: 30px;
+}
+
+header1{
+		text-align: center;
+}
+
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+a{
+	color: lightblue;
+}
