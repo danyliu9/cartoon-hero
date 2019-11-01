@@ -1,0 +1,29 @@
+body{
+	background-color: lightslategray;
+}
+h1{ 
+	font-size: 30px;
+	color: salmon;
+	text-decoration: underline;
+}
+
+h2{
+	font-size: 40px;
+	color: lightblue;
+}
+.big{
+	font-size: 70px;
+}
+.uppercase{
+	text-transform: uppercase;
+}
+.big.uppercase{
+	color: hotpink;
+}
+span{
+	color: navy;
+}
+
+h1 span{ 
+	color: brown;
+};
